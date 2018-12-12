@@ -1,2 +1,2 @@
-# JavaScript_Closure
+### JavaScript_Closure
 Simple JavaScript Closure Function
